@@ -262,32 +262,6 @@ Coffee_Sales_Dashboard/
 **Total Project Size:** ~42 MB  
 **Files:** 11 (1 template, 1 PDF, 15 SQL queries, 3 data files, 4 screenshots)
 
-## 🚀 How to Use
-
-### **Option 1: View Dashboard PDF**
-Download `Coffe_Shop_Sales_Analytics_Insights.pdf` for static dashboard view
-
-### **Option 2: Explore SQL Queries**
-1. Open `Coffee_Sales_Analytics_Queries.sql` in SSMS
-2. Update database name: `USE Coffee_Sales_DB;`
-3. Run individual queries or execute all (F5)
-4. Analyze results for business insights
-
-### **Option 3: Open Power BI Template**
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-2. Open `Coffe_Shop_Sales_Analytics_Insights.pbit`
-3. Connect to data source:
-   - Option A: `Coffee Shop Sales.csv`
-   - Option B: `Coffee Shop Sales.xlsx`
-   - Option C: MySQL database connection
-4. Explore interactive dashboard
-
-### **Option 4: Load Your Own Data**
-1. Use the provided schema structure
-2. Import your coffee shop sales data
-3. Run SQL queries for instant insights
-4. Build custom Power BI dashboards
-
 ## 🎓 Skills Demonstrated
 - **MySQL Database Design** - Schema optimization
 - **Advanced SQL** - CTEs, Window Functions, JOINs
@@ -308,12 +282,9 @@ Download `Coffe_Shop_Sales_Analytics_Insights.pdf` for static dashboard view
 
 ## 📧 Contact
 **Parth Mistry**  
-Data Scientist | AI/ML Engineer | BI Developer
 
 - 📧 Email: pmistryds25@gmail.com
 - 💼 LinkedIn: [parth-mistry](https://linkedin.com/in/parth-mistry-2b0637140/)
-- 🐙 GitHub: [ParthDS02](https://github.com/ParthDS02)
-- 🌐 Portfolio: [View Live Portfolio](https://parthds02.github.io)
 
 ---
 
