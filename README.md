@@ -10,9 +10,7 @@
 ## 📊 Project Overview
 A comprehensive **Coffee Shop Sales Analytics Dashboard** combining **MySQL** for data analysis and **Power BI** for visualization to track sales performance, optimize inventory, identify peak hours, and maximize profitability across multiple coffee shop locations.
 
-## 🎬 Demo & Documentation
-
-> **Note:** This project includes comprehensive SQL analytics integrated with Power BI visualization for end-to-end business intelligence.
+## Documentation
 
 **Files Available:**
 - `Coffe_Shop_Sales_Analytics_Insights.pdf` (5.8 MB) - Dashboard export
